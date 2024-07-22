@@ -1,0 +1,16 @@
+.socmeter-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .socmeter-progress {
+    width: 100%;
+    // max-width: 300px;
+    margin: 8px 0;
+  }
+  
+  .socmeter-label {
+    margin-top: 4px;
+  }
+  

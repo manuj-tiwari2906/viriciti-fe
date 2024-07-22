@@ -1,0 +1,18 @@
+.speedometer-wrapper {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+  }
+  
+  .speedometer-progress {
+    height: 15px;
+    margin-left: 16px;
+    margin-right: 16px;
+    width: 100%;
+  }
+  
+  .speedometer-label {
+    min-width: 35px;
+  }
+  
